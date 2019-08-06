@@ -1,1 +1,1 @@
-# HackerRank
+Completed JS hackerrank challenges.
