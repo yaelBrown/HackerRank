@@ -8,7 +8,7 @@ import java.util.regex.*;
 
 
 
-public class MyClass {
+class ifElse {
 
     private static final Scanner scanner = new Scanner(System.in);
 
