@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ecc29f0-d341-4e26-8566-9d7237838b30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/src/Datatypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/LoopsTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/OutputFormatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HackerRank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HackerRank.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/if-else.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/ifElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/output-formatting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/stdin-stdout-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/stdinStdoutII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Datatypes.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571425170514</updated>
       <workItem from="1571425171847" duration="3914000" />
+      <workItem from="1571534707017" duration="1217000" />
     </task>
     <servers />
   </component>
@@ -113,7 +106,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
