@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ecc29f0-d341-4e26-8566-9d7237838b30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/out/production/HackerRank/DoNotTerminate$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/out/production/HackerRank/DoNotTerminate$ExitTrappedException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/out/production/HackerRank/DoNotTerminate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/Fizzbuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/out/production/HackerRank/IntToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/out/production/HackerRank/IntToString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/out/production/HackerRank/LoopsTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/out/production/HackerRank/LoopsTwo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/src/LoopsTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/LoopsTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fizzbuzz.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/fizzbuzz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +47,16 @@
       <recent name="$PROJECT_DIR$/Java/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoopsTwo">
+  <component name="RunManager" selected="Application.Fizzbuzz">
     <configuration name="Datatypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Datatypes" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fizzbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fizzbuzz" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,13 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops" />
-      <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LoopsTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LoopsTwo" />
       <module name="HackerRank" />
@@ -92,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fizzbuzz" />
         <item itemvalue="Application.LoopsTwo" />
         <item itemvalue="Application.Datatypes" />
         <item itemvalue="Application.IntToString" />
         <item itemvalue="Application.InitializerBlock" />
-        <item itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -147,22 +140,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1677" height="393" key="GridCell.Tab.0.bottom" timestamp="1576468217590">
+    <state width="1677" height="393" key="GridCell.Tab.0.bottom" timestamp="1576469002052">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="1677" height="393" key="GridCell.Tab.0.bottom/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576468217590" />
-    <state width="1677" height="393" key="GridCell.Tab.0.center" timestamp="1576468217590">
+    <state width="1677" height="393" key="GridCell.Tab.0.bottom/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576469002052" />
+    <state width="1677" height="393" key="GridCell.Tab.0.center" timestamp="1576469002052">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="1677" height="393" key="GridCell.Tab.0.center/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576468217590" />
-    <state width="1677" height="393" key="GridCell.Tab.0.left" timestamp="1576468217590">
+    <state width="1677" height="393" key="GridCell.Tab.0.center/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576469002052" />
+    <state width="1677" height="393" key="GridCell.Tab.0.left" timestamp="1576469002052">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="1677" height="393" key="GridCell.Tab.0.left/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576468217590" />
-    <state width="1677" height="393" key="GridCell.Tab.0.right" timestamp="1576468217590">
+    <state width="1677" height="393" key="GridCell.Tab.0.left/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576469002052" />
+    <state width="1677" height="393" key="GridCell.Tab.0.right" timestamp="1576469002052">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="1677" height="393" key="GridCell.Tab.0.right/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576468217590" />
+    <state width="1677" height="393" key="GridCell.Tab.0.right/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576469002052" />
     <state x="2134" y="992" key="SettingsEditor" timestamp="1576467638112">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
