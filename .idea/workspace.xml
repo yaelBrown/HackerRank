@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ecc29f0-d341-4e26-8566-9d7237838b30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/src/IntToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/out/production/HackerRank/DoNotTerminate$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/out/production/HackerRank/DoNotTerminate$ExitTrappedException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/out/production/HackerRank/DoNotTerminate.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/out/production/HackerRank/InitializerBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/out/production/HackerRank/InitializerBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/HackerRank/IntToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/out/production/HackerRank/IntToString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/HackerRank/LoopsTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/out/production/HackerRank/LoopsTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/LoopsTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/LoopsTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fizzbuzz.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/fizzbuzz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.js" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +29,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SOCHx0px9PoU9UVrVgVTL0UnoH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -38,22 +50,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yael-PC1\Projectz\HackerRank\Javascript" />
       <recent name="$PROJECT_DIR$/Java/src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.IntToString">
+  <component name="RunManager" selected="Application.LoopsTwo">
+    <configuration name="Datatypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Datatypes" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InitializerBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InitializerBlock" />
       <module name="HackerRank" />
@@ -75,15 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutputFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OutputFormatting" />
-      <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
+    <configuration name="LoopsTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopsTwo" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,13 +92,25 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoopsTwo" />
+        <item itemvalue="Application.Datatypes" />
         <item itemvalue="Application.IntToString" />
         <item itemvalue="Application.InitializerBlock" />
         <item itemvalue="Application.Loops" />
-        <item itemvalue="Application.OutputFormatting" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -112,7 +125,8 @@
       <workItem from="1571425171847" duration="3914000" />
       <workItem from="1571534707017" duration="3663000" />
       <workItem from="1571588741195" duration="2848000" />
-      <workItem from="1571613334273" duration="3112000" />
+      <workItem from="1571613334273" duration="3743000" />
+      <workItem from="1571958748423" duration="65000" />
     </task>
     <servers />
   </component>
@@ -131,5 +145,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1677" height="393" key="GridCell.Tab.0.bottom" timestamp="1576468217590">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="1677" height="393" key="GridCell.Tab.0.bottom/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576468217590" />
+    <state width="1677" height="393" key="GridCell.Tab.0.center" timestamp="1576468217590">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="1677" height="393" key="GridCell.Tab.0.center/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576468217590" />
+    <state width="1677" height="393" key="GridCell.Tab.0.left" timestamp="1576468217590">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="1677" height="393" key="GridCell.Tab.0.left/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576468217590" />
+    <state width="1677" height="393" key="GridCell.Tab.0.right" timestamp="1576468217590">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="1677" height="393" key="GridCell.Tab.0.right/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576468217590" />
+    <state x="2134" y="992" key="SettingsEditor" timestamp="1576467638112">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="2134" y="992" key="SettingsEditor/0.0.3840.2120/3840.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1576467638112" />
   </component>
 </project>
